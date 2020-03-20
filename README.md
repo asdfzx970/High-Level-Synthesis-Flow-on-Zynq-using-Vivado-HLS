@@ -65,3 +65,4 @@ discrete cosine transformation (DCT) on an 8x8 block of data.
 
 This lab introduces a design flow to generate a IP-XACT adapter from a design using Vivado HLS and
 using the generated IP-XACT adapter in a processor system using IP Integrator in Vivado.
+好像是实时输入滤波，是的话可以考虑录制好，再播放时候用这个实时滤波。
